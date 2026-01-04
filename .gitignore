@@ -1,4 +1,5 @@
 ﻿.idea/
+.vscode/
 target/
 *.class
 *.log
